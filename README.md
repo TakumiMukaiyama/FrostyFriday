@@ -1,1 +1,2 @@
-# FrostyFriday
+# FrostyFriday用のリポジトリ
+
